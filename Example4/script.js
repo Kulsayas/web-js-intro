@@ -24,3 +24,7 @@ async function callApi() {
     console.error(error);
   }
 }
+
+// Tips: Don't worry about this we just wanted to tell  you
+// about getting data from API 'https://jsonplaceholder.typicode.com/posts/1'
+// and change value of element id = "my-id" when web broswer receive the data

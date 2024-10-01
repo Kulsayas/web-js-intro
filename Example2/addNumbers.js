@@ -1,9 +1,12 @@
-function addNumbers(num1, num2){
-    let sum = num1+num2;
+// step 1: we create function named "addNumber" and it has 2 inputs which were "num1" and "num2"
+// step 2: we can call "addNumber" function with 2 inputs
+
+function addNumbers(num1, num2) {
+    let sum = num1 + num2;
     //console.log(sum);
     return sum;
 }
-let result = addNumbers(5,7);
+let result = addNumbers(5, 7);
 console.log(result);
 
 // let result2 = addNumbers(10,5);
